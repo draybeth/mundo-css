@@ -1,0 +1,333 @@
+body {
+    background: #222;
+    color: #EEE;
+    font-family: sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+/*<editor-fold desc="tezla">*/
+
+header {
+    background: url("../img/logo.png") no-repeat 98%,
+    rgba(22, 77, 255, 0.5);
+    background-size: 60px;
+    box-shadow: rgba(0, 0, 0, 0.7) 0px 5px 10px;
+    width: 100%;
+    margin: 0 0 1em 0;
+    padding: 0.5em 0;
+}
+
+nav {
+    background: rgba(22, 77, 255, 0.5);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    border-radius: 0.5em;
+    background: #d16422;
+    color: white;
+    display: inline-block;
+    margin: 0 0.5em 0 0;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: all 0.3s ease;
+
+}
+
+nav ul li a:hover {
+    background: white;
+    color: black;
+    transform: rotate(-360deg);
+}
+
+header h1 {
+    font-size: 2em;
+    margin: 0;
+    text-shadow: rgba(0, 0, 0, 0.7) 5px 5px 10px;
+}
+
+header h2 {
+    margin: 0;
+    font-size: 1.2em;
+
+}
+
+#cochecito {
+    background: white;
+    color: #222;
+    width: 50%;
+    text-align: left;
+    margin: 0;
+    border-radius: 0.5em;
+
+}
+
+#cochecito img {
+    width: 100%;
+}
+
+#cochecito figcaption {
+    margin: 1em;
+}
+
+figcaption h2 {
+    text-align: left;
+    margin: 0 0 0 1em;
+
+}
+
+figcaption ul {
+    list-style: none;
+}
+
+figcaption ul li a {
+    text-decoration: none;
+    color: black;
+    margin-left: 1em;
+}
+
+#cochecito, #historia {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#historia {
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 0.5em;
+    width: 40%;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 5px 10px;
+    padding: 1em;
+    text-align: justify;
+    margin: 0 2% 6em 1em;
+    text-shadow: rgba(0, 0, 0, 0.7) 2px 2px 5px;
+}
+
+/*</editor-fold>*/
+/*<editor-fold desc="ejemplo1">*/
+.Header {
+    background: #fff;
+    color: #4d4d4d;
+}
+
+.Section {
+    background: #4d4d4d;
+    padding: 50px 25px;
+}
+
+.caja-uno {
+
+    background: darkgreen;
+    border-radius: 8px;
+    width: 400px;
+    height: 200px;
+}
+
+.caja-dos {
+    background: darkblue;
+    width: 400px;
+    height: 200px;
+    margin: 20px 0;
+    border-radius: 32px 50px 16px 8px;
+}
+
+.caja-tres {
+    background: sienna;
+    width: 400px;
+    height: 200px;
+    border-radius: 40px 80px 20px 80px / 20px 80px 20px 20px;
+}
+
+.circulo {
+    background: yellow;
+    width: 200px;
+    height: 200px;
+    margin: 10px 0;
+    border-radius: 50%;
+}
+
+/*</editor-fold>*/
+/*<editor-fold desc="ejemplo2 ">*/
+.sombra1 {
+    width: 400px;
+    height: 200px;
+    margin: 50px auto;
+    background: forestgreen;
+
+    box-shadow: 10px -10px;
+}
+
+.sombra2 {
+    width: 400px;
+    height: 200px;
+    margin: 50px auto;
+    background: forestgreen;
+
+    box-shadow: 10px -10px 1px;
+}
+
+.sombra3 {
+    width: 100px;
+    height: 100px;
+    margin: 150px auto;
+    background: forestgreen;
+
+    box-shadow: 100px 100px 0px 10px;
+}
+
+.sombra4 {
+    width: 400px;
+    height: 200px;
+    margin: 50px auto;
+    background: #696322;
+
+    box-shadow: inset -10px -5px 5px 1px;
+}
+
+.sombra5 {
+    width: 400px;
+    height: 200px;
+    margin: 50px auto;
+    background: #003f54;
+
+    box-shadow: inset 1px 1px 5px, 3px 3px 5px red, 5px 10px 8px blue;;
+}
+
+/*</editor-fold>*/
+/*<editor-fold desc="ejemplo3">*/
+
+.caja {
+    width: 460px;
+    border-width: 27px;
+    /*border-image: url("../img/fondo.png")27 stretch ;*/
+    border-image: url("../img/fondo.png") 27 40 13 5 stretch;
+}
+
+.box {
+    width: 400px;
+    height: 200px;
+    margin: 10px auto;
+    border: 1px solid red;
+}
+
+.box1 {
+    background-image: linear-gradient(red, yellow);
+}
+
+.box2 {
+    background-image: linear-gradient(to left, red, yellow);
+
+}
+
+.box3 {
+    background-image: linear-gradient(to left, red, yellow, red);
+
+}
+
+.box4 {
+    background-image: linear-gradient(to left, red, blue, yellow);
+}
+
+.box5 {
+    background-image: linear-gradient(to left, red 10%, blue 30%, yellow 50%);
+}
+
+.gradienteR1 {
+    background-image: radial-gradient(red, blue, yellow);
+}
+
+.gradienteR2 {
+    background-image: radial-gradient(circle closest-side, red 50%, black);
+}
+
+.gradienteR3 {
+    background-image: radial-gradient(circle at top, red, black);
+}
+
+/*</editor-fold>*/
+/*<editor-fold desc="ejemplo4 transition">*/
+.marco {
+    width: 200px;
+    height: 200px;
+    margin: 20px auto;
+}
+
+.marco1 {
+    background: red;
+    transition-duration: 2s;
+    transition-property: all;
+    /*transition-delay: 0s;*/
+    /*transition-timing-function: steps(3 ,end);*/
+    transition-timing-function: linear;
+}
+
+.marco1:hover {
+    background: green;
+    width: 400px;
+
+}
+
+.marco2 {
+    background: blue;
+    transition: all linear 1s;
+}
+
+.marco2:hover {
+    background: green;
+    width: 400px;
+    height: 400px;
+}
+
+/*</editor-fold>*/
+/*<editor-fold desc="ejemplo 5 Trtansformaciones">*/
+.cajas {
+    width: 100px;
+    height: 100px;
+    background: red;
+    margin: 10px auto;
+    transition-duration: 1s;
+}
+
+.caj1:hover {
+    transform: rotate(50deg);
+}
+
+.caj2 {
+    transform-origin: top left;
+}
+
+.caj2:hover {
+    transform: rotate(180deg);
+}
+
+.caj3:hover {
+    transform: scale(0.8);
+}
+
+.caj5 {
+    transform: skewX(-30deg);
+}
+
+.cajs{
+    width: 200px;
+    height: 100px;
+    background: green;
+    transition-duration: 2s;
+    margin: 20px auto;
+}
+.traslate:hover{
+    transform: translate(100px, -50px);
+}
+
+/*</editor-fold>*/

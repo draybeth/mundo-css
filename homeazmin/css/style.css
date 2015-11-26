@@ -1,0 +1,301 @@
+/*<editor-fold desc="utils">*/
+.u-title {
+    color: #555555;
+    font-size: 46px;
+    font-weight: lighter;
+    margin: 20px 0 10px 0;
+}
+
+/*</editor-fold>*/
+/*<editor-fold desc="Menu">*/
+.MainMenu {
+    display: none;
+}
+
+/*</editor-fold>*/
+/*<editor-fold desc="Header">*/
+@-webkit-keyframes test {
+    0% {
+        background-image: url('../img/fondo1.jpg');
+    }
+    50% {
+        background-image: url('../img/2.jpg');
+    }
+    100% {
+        background-image: url('../img/3.jpg');
+    }
+}
+
+.Header {
+    background: url("../img/fondo1.jpg") no-repeat;
+
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    color: #fff;
+    padding-top: 75px;
+    -webkit-animation:test 8s infinite alternate;
+
+    /*-webkit-animation-duration: 5s infinite ;*/
+    /*-webkit-animation-iteration-count: 2 ;*/
+    /*-webkit-animation-direction: alternate;*/
+    /*-webkit-animation-timing-function: linear;*/
+}
+
+.Header-imgContent {
+    padding-bottom: 20px;
+}
+
+.Header-title {
+    font-size: 46px;
+    font-weight: lighter;
+    font-style: normal;
+    margin: 20px 0 10px 0;
+}
+
+.Header-description {
+    font-size: 22px;
+    line-height: 36px;
+    margin: 40px 0 10px 0;
+    font-weight: 300;
+}
+
+.Header-timerContent {
+    margin-top: 60px;;
+}
+
+.Header-timerLink {
+    text-decoration: none;
+    color: white;
+}
+
+.Header-timerItem {
+    border: solid 1px white;
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+    margin: 0 10px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-weight: 300;
+    transition: all 0.3s ease;
+}
+
+.Header-timerItem:hover {
+    background: #e8643e;
+    border: solid 1px #e8643e;
+}
+
+.Header-timerName {
+    font-size: 80px;
+    font-weight: 100;
+    display: block;
+    padding-top: 20px;
+}
+
+.Header-scrollContent {
+    font-size: 20px;
+    margin: 50px 0 10px 0;
+    text-align: center;
+    font-weight: 300;
+
+}
+
+.Header-scrollDescription {
+    text-decoration: none;
+    color: white;
+}
+
+/*</editor-fold>*/
+/*<editor-fold desc="Subscribe">*/
+.Subscribe {
+    text-align: center;
+    font-weight: 300;
+    margin-top: 60px;
+}
+
+.subscribe-title {
+    color: #555555;
+    font-size: 46px;
+    font-weight: lighter;
+    margin: 20px 0 10px 0;
+}
+
+.subscribe-description {
+    color: #888888;
+    font-size: 22px;
+
+}
+
+.Subscribe-form {
+    font-size: 14px;
+    color: #333;
+    margin: 40px 0 20px 0;
+
+}
+
+.Subscribe-formEmail {
+    padding: 0 10px;
+    font-size: 22px;
+    width: 25%;
+    border: 1px solid #eee;
+    border-radius: 3px;
+    line-height: 50px;
+
+}
+
+.Subscribe-formBottom {
+    padding: 0 10px;
+    font-size: 22px;
+    border: 1px solid #eee;
+    border-radius: 3px;
+    line-height: 50px;
+    color: white;
+    background: #e8643e;
+}
+
+.Subscribe-formBottom:hover {
+    background: #444;
+}
+
+/*</editor-fold>*/
+/*<editor-fold desc="About">*/
+.About {
+    text-align: center;
+    margin-top: 60px;
+    background: url("../img/2.jpg");
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    color: #fff;
+    padding-top: 75px;
+}
+
+.About-title {
+    color: white;
+}
+
+.About-description {
+    font-size: 22px;
+    line-height: 36px;
+    margin: 40px 0 10px 0;
+    font-weight: 300;
+}
+
+.About-post {
+    display: inline-block;
+    width: 28%;
+}
+
+.About-imgContent {
+    margin-top: 30px;
+}
+
+.About_img {
+    border-radius: 50%;
+    width: 38%;
+}
+
+/*</editor-fold>*/
+/*<editor-fold desc="Testimonials">*/
+
+.Testimonials {
+    text-align: center;
+
+}
+
+/*</editor-fold>*/
+/*<editor-fold desc="Team">*/
+
+.Team {
+    text-align: center;
+    background: url("../img/3.jpg");
+}
+
+/*</editor-fold>*/
+/*<editor-fold desc="Contact">*/
+
+.Contact {
+    text-align: center;
+}
+
+/*</editor-fold>*/
+/*<editor-fold desc="Footer">*/
+
+.Footer {
+    text-align: center;
+    background: #444;
+    color: #fff;
+}
+
+/*</editor-fold>*/
+/*<editor-fold desc="Login">*/
+::selection{
+    background: rebeccapurple;
+    color: #0ea34b;
+}
+.login {
+
+    background: mediumseagreen;
+    padding: 50px;
+    width: 100%;
+    height: 100vh;
+}
+
+.login-form {
+    background: white;
+    border-radius: 10px;
+    margin: 0 auto;
+    width: 280px;
+    padding: 40px 10px 0 10px;
+}
+
+.login-fiel {
+    color: #4e4e4e;
+    width: 280px;
+    margin: 0 auto;
+    border: none;
+    padding: 0;
+
+}
+.login-legend{
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: #777;
+}
+
+.login-text {
+    display: block;
+    border: none;
+    padding: 15px;
+    text-align: center;
+    margin: 15px auto;
+    font-size: 18px;
+    background-color: #eaeaea;
+    border-radius: 4px;
+    outline: none;
+
+}
+.login-text:focus{
+    border: 1px solid red;
+
+}
+.login-submit{
+    width: 100%;
+    padding: 15px;
+    text-align: center;
+    margin: 10px auto;
+    font-size: 18px;
+    border: none;
+    border-radius: 4px;
+    background-color: mediumseagreen;
+}
+
+/*</editor-fold>*/
+
+/*librerias de postgres*/
