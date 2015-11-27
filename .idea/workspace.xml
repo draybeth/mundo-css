@@ -1,7 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ae74cf3-08e1-430a-9075-5bf9c37383bc" name="Default" comment="" />
+    <list default="true" id="5ae74cf3-08e1-430a-9075-5bf9c37383bc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/fonts/icomoon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/fonts/icomoon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/fonts/icomoon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/img/Collaboration.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/img/ProjectManagementCertificate_MAIN.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/img/carro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/img/fondo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/img/header.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/img/project-management.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/fonts/icomoon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/icofont.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/icomoon/Read Me.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/icomoon/demo-files/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/icomoon/demo-files/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/icomoon/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/icomoon/selection.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/pystyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/css/foundation.css" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/css/foundation.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/css/foundation.min.css" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/css/foundation.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/css/normalize.css" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/css/normalize.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/home.html" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/home.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/humans.txt" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/humans.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/img/.gitkeep" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/img/.gitkeep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/index.html" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation.min.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.abide.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.abide.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.accordion.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.accordion.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.alert.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.alert.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.clearing.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.clearing.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.dropdown.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.dropdown.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.equalizer.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.equalizer.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.interchange.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.interchange.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.joyride.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.joyride.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.magellan.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.magellan.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.offcanvas.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.offcanvas.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.orbit.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.orbit.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.reveal.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.reveal.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.slider.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.slider.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.tab.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.tab.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.tooltip.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.tooltip.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.topbar.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.topbar.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/vendor/fastclick.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/vendor/fastclick.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/vendor/jquery.cookie.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/vendor/jquery.cookie.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/vendor/jquery.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/vendor/jquery.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/vendor/modernizr.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/vendor/modernizr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/vendor/placeholder.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/vendor/placeholder.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/robots.txt" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/robots.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/homeazmin/css/normalize.css" afterPath="$PROJECT_DIR$/azmind.com/css/normalize.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/homeazmin/css/style.css" afterPath="$PROJECT_DIR$/azmind.com/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/homeazmin/img/2.jpg" afterPath="$PROJECT_DIR$/azmind.com/img/2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/homeazmin/img/3.jpg" afterPath="$PROJECT_DIR$/azmind.com/img/3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/homeazmin/img/avatar.jpg" afterPath="$PROJECT_DIR$/azmind.com/img/avatar.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/homeazmin/img/fondo.jpg" afterPath="$PROJECT_DIR$/azmind.com/img/fondo.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/homeazmin/img/fondo1.jpg" afterPath="$PROJECT_DIR$/azmind.com/img/fondo1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/homeazmin/img/logo-hover.png" afterPath="$PROJECT_DIR$/azmind.com/img/logo-hover.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/homeazmin/img/logo.png" afterPath="$PROJECT_DIR$/azmind.com/img/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/homeazmin/img/post1.jpg" afterPath="$PROJECT_DIR$/azmind.com/img/post1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/homeazmin/index.html" afterPath="$PROJECT_DIR$/azmind.com/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/homeazmin/login.html" afterPath="$PROJECT_DIR$/azmind.com/login.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/fonts/icomoon.eot" afterPath="$PROJECT_DIR$/ejemplo-css3/css/fonts/icomoon.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/fonts/icomoon.svg" afterPath="$PROJECT_DIR$/ejemplo-css3/css/fonts/icomoon.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/fonts/icomoon.ttf" afterPath="$PROJECT_DIR$/ejemplo-css3/css/fonts/icomoon.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/fonts/icomoon.woff" afterPath="$PROJECT_DIR$/ejemplo-css3/css/fonts/icomoon.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/icofont.css" afterPath="$PROJECT_DIR$/ejemplo-css3/css/icofont.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/icomoon/Read Me.txt" afterPath="$PROJECT_DIR$/ejemplo-css3/css/icomoon/Read Me.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/icomoon/demo-files/demo.css" afterPath="$PROJECT_DIR$/ejemplo-css3/css/icomoon/demo-files/demo.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/icomoon/demo-files/demo.js" afterPath="$PROJECT_DIR$/ejemplo-css3/css/icomoon/demo-files/demo.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/icomoon/demo.html" afterPath="$PROJECT_DIR$/ejemplo-css3/css/icomoon/demo.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/icomoon/selection.json" afterPath="$PROJECT_DIR$/ejemplo-css3/css/icomoon/selection.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/normalize.css" afterPath="$PROJECT_DIR$/ejemplo-css3/css/normalize.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/pystyle.css" afterPath="$PROJECT_DIR$/ejemplo-css3/css/pystyle.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/style.css" afterPath="$PROJECT_DIR$/ejemplo-css3/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css3/ejercicios.html" afterPath="$PROJECT_DIR$/ejemplo-css3/ejercicios.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css3/project.html" afterPath="$PROJECT_DIR$/ejemplo-css3/project.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/img/Collaboration.jpg" afterPath="$PROJECT_DIR$/ejemplo-css3/img/Collaboration.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/img/ProjectManagementCertificate_MAIN.jpg" afterPath="$PROJECT_DIR$/ejemplo-css3/img/ProjectManagementCertificate_MAIN.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/img/carro.png" afterPath="$PROJECT_DIR$/ejemplo-css3/img/carro.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/img/fondo.png" afterPath="$PROJECT_DIR$/ejemplo-css3/img/fondo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/img/header.jpg" afterPath="$PROJECT_DIR$/ejemplo-css3/img/header.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/img/logo.png" afterPath="$PROJECT_DIR$/ejemplo-css3/img/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/img/project-management.jpg" afterPath="$PROJECT_DIR$/ejemplo-css3/img/project-management.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/index.html" afterPath="$PROJECT_DIR$/ejemplo-tezla/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/js/ejemplo.js" afterPath="$PROJECT_DIR$/ejemplo-tezla/js/ejemplo.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/js/jquery-1.11.3.min.js" afterPath="$PROJECT_DIR$/ejemplo-tezla/js/jquery-1.11.3.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/js/modernizr-custom.js" afterPath="$PROJECT_DIR$/ejemplo-tezla/js/modernizr-custom.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/js/prefixfree.min.js" afterPath="$PROJECT_DIR$/ejemplo-tezla/js/prefixfree.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/css/normalize.css" afterPath="$PROJECT_DIR$/ejemplo-blog/css/normalize.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/css/style.css" afterPath="$PROJECT_DIR$/ejemplo-blog/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/fonts/icomoon.eot" afterPath="$PROJECT_DIR$/ejemplo-blog/fonts/icomoon.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/fonts/icomoon.svg" afterPath="$PROJECT_DIR$/ejemplo-blog/fonts/icomoon.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/fonts/icomoon.ttf" afterPath="$PROJECT_DIR$/ejemplo-blog/fonts/icomoon.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/fonts/icomoon.woff" afterPath="$PROJECT_DIR$/ejemplo-blog/fonts/icomoon.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/fuentes/OpenSans-Regular-webfont.eot" afterPath="$PROJECT_DIR$/ejemplo-blog/fuentes/OpenSans-Regular-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/fuentes/OpenSans-Regular-webfont.svg" afterPath="$PROJECT_DIR$/ejemplo-blog/fuentes/OpenSans-Regular-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/fuentes/OpenSans-Regular-webfont.ttf" afterPath="$PROJECT_DIR$/ejemplo-blog/fuentes/OpenSans-Regular-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/fuentes/OpenSans-Regular-webfont.woff" afterPath="$PROJECT_DIR$/ejemplo-blog/fuentes/OpenSans-Regular-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/img/avatar.jpg" afterPath="$PROJECT_DIR$/ejemplo-blog/img/avatar.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/img/logo.png" afterPath="$PROJECT_DIR$/ejemplo-blog/img/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/img/post.png" afterPath="$PROJECT_DIR$/ejemplo-blog/img/post.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/index.html" afterPath="$PROJECT_DIR$/ejemplo-blog/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="practica 1.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,24 +126,24 @@
     <favorites_list name="practica 1" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.55991876">
+    <splitter split-orientation="horizontal" split-proportion="0.60223365">
       <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+        <leaf>
           <file leaf-file-name="project.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/tezla/css3/project.html">
+            <entry file="file://$PROJECT_DIR$/ejemplo-css3/project.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-33.931034">
-                  <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+                <state vertical-scroll-proportion="-1.3448275">
+                  <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
           <file leaf-file-name="ejercicios.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/tezla/css3/ejercicios.html">
+            <entry file="file://$PROJECT_DIR$/ejemplo-css3/ejercicios.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6345178">
-                  <caret line="78" column="14" selection-start-line="78" selection-start-column="14" selection-end-line="78" selection-end-column="14" />
+                <state vertical-scroll-proportion="0.5532995">
+                  <caret line="74" column="43" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="43" />
                   <folding />
                 </state>
               </provider>
@@ -47,54 +153,34 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="pystyle.css" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/tezla/css/pystyle.css">
+          <file leaf-file-name="pystyle.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ejemplo-css3/css/pystyle.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6497462">
-                  <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+                <state vertical-scroll-proportion="-11.586206">
+                  <caret line="142" column="18" selection-start-line="142" selection-start-column="18" selection-end-line="142" selection-end-column="18" />
                   <folding>
-                    <element signature="e#172#212#0" expanded="false" />
-                    <element signature="e#304#335#0" expanded="false" />
-                    <element signature="e#920#950#0" expanded="false" />
-                    <element signature="e#1173#1208#0" expanded="false" />
+                    <element signature="e#145#185#0" expanded="false" />
+                    <element signature="e#277#308#0" expanded="false" />
+                    <element signature="e#923#953#0" expanded="false" />
+                    <element signature="e#1176#1211#0" expanded="false" />
+                    <element signature="e#1475#1509#0" expanded="false" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/tezla/css/style.css">
+          <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ejemplo-css3/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-26.0">
-                  <caret line="332" column="18" selection-start-line="332" selection-start-column="18" selection-end-line="332" selection-end-column="18" />
+                <state vertical-scroll-proportion="0.79695433">
+                  <caret line="399" column="0" selection-start-line="399" selection-start-column="0" selection-end-line="399" selection-end-column="0" />
                   <folding>
-                    <element signature="e#123#153#0" expanded="false" />
-                    <element signature="e#1820#1853#0" expanded="false" />
-                    <element signature="e#2490#2524#0" expanded="false" />
-                    <element signature="e#3269#3302#0" expanded="false" />
-                    <element signature="e#4229#4273#0" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/homeazmin/css/style.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-9.103448">
-                  <caret line="300" column="12" selection-start-line="300" selection-start-column="12" selection-end-line="300" selection-end-column="12" />
-                  <folding>
-                    <element signature="e#0#30#0" expanded="false" />
-                    <element signature="e#158#187#0" expanded="false" />
-                    <element signature="e#241#272#0" expanded="false" />
-                    <element signature="e#2034#2068#0" expanded="false" />
-                    <element signature="e#2847#2877#0" expanded="false" />
-                    <element signature="e#3417#3454#0" expanded="false" />
-                    <element signature="e#3470#3498#0" expanded="false" />
-                    <element signature="e#3519#3548#0" expanded="false" />
-                    <element signature="e#3641#3673#0" expanded="false" />
-                    <element signature="e#3732#3763#0" expanded="false" />
-                    <element signature="e#3860#3890#0" expanded="false" />
+                    <element signature="e#123#161#0" expanded="false" />
+                    <element signature="e#1828#1861#0" expanded="false" />
+                    <element signature="e#2498#2532#0" expanded="false" />
+                    <element signature="e#3277#3310#0" expanded="false" />
+                    <element signature="e#4237#4281#0" expanded="false" />
+                    <element signature="e#4793#4845#0" expanded="false" />
                   </folding>
                 </state>
               </provider>
@@ -112,6 +198,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -143,9 +232,13 @@
         <option value="$PROJECT_DIR$/homeazmin/css/style.css" />
         <option value="$PROJECT_DIR$/tezla/css3/ejemplo1.html" />
         <option value="$PROJECT_DIR$/tezla/css/style.css" />
+        <option value="$PROJECT_DIR$/tezla/css3/ejercicios.html" />
         <option value="$PROJECT_DIR$/tezla/css3/project.html" />
         <option value="$PROJECT_DIR$/tezla/css/pystyle.css" />
-        <option value="$PROJECT_DIR$/tezla/css3/ejercicios.html" />
+        <option value="$PROJECT_DIR$/ejemplo-css3/project.html" />
+        <option value="$PROJECT_DIR$/ejemplo-css3/css/pystyle.css" />
+        <option value="$PROJECT_DIR$/ejemplo-css3/ejercicios.html" />
+        <option value="$PROJECT_DIR$/ejemplo-css3/css/style.css" />
       </list>
     </option>
   </component>
@@ -207,6 +300,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -235,7 +329,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tezla" />
+              <option name="myItemId" value="ejemplo-tezla" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -249,11 +343,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tezla" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css3" />
+              <option name="myItemId" value="ejemplo-css3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -267,21 +357,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="homeazmin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practica 1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tezla" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="homeazmin" />
+              <option name="myItemId" value="ejemplo-css3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -291,7 +367,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -306,15 +381,17 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ejemplo-css3" />
+      <recent name="$PROJECT_DIR$/tezla" />
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ejemplo-css3" />
       <recent name="$PROJECT_DIR$/homeazmin" />
       <recent name="$PROJECT_DIR$/vaca_berde/img" />
       <recent name="$PROJECT_DIR$/miblog/css" />
       <recent name="$PROJECT_DIR$/landpage/css" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/tezla" />
-      <recent name="$PROJECT_DIR$/css" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html (1)">
@@ -402,20 +479,20 @@
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14860907" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14787701" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -431,9 +508,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23333333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -452,21 +529,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tezla/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="167" column="4" selection-start-line="167" selection-start-column="4" selection-end-line="171" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/home.html">
+    <entry file="file://$PROJECT_DIR$/ejemplo-foundation-blog/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="71" column="16" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
@@ -480,91 +543,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tezla/index.html">
+    <entry file="file://$PROJECT_DIR$/ejemplo-tezla/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tezla/js/ejemplo.js">
+    <entry file="file://$PROJECT_DIR$/ejemplo-tezla/js/ejemplo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tezla/css/style.css">
+    <entry file="file://$PROJECT_DIR$/ejemplo-tezla/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/index.html">
+    <entry file="file://$PROJECT_DIR$/ejemplo-foundation-blog/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="167" column="4" selection-start-line="167" selection-start-column="4" selection-end-line="171" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/home.html">
+    <entry file="file://$PROJECT_DIR$/ejemplo-foundation-blog/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tezla/index.html">
+    <entry file="file://$PROJECT_DIR$/ejemplo-tezla/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tezla/js/ejemplo.js">
+    <entry file="file://$PROJECT_DIR$/ejemplo-tezla/js/ejemplo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tezla/index.html">
+    <entry file="file://$PROJECT_DIR$/ejemplo-tezla/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tezla/css/style.css">
+    <entry file="file://$PROJECT_DIR$/ejemplo-tezla/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tezla/index.html">
+    <entry file="file://$PROJECT_DIR$/ejemplo-tezla/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tezla/index.html">
+    <entry file="file://$PROJECT_DIR$/ejemplo-tezla/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tezla/css/style.css">
+    <entry file="file://$PROJECT_DIR$/ejemplo-tezla/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/home.html">
+    <entry file="file://$PROJECT_DIR$/ejemplo-foundation-blog/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.041025642">
           <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
@@ -613,52 +676,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tezla/js/jquery-1.11.3.min.js">
+    <entry file="file://$PROJECT_DIR$/ejemplo-tezla/js/jquery-1.11.3.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20408164">
           <caret line="1" column="462" selection-start-line="1" selection-start-column="462" selection-end-line="1" selection-end-column="462" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tezla/js/modernizr-custom.js">
+    <entry file="file://$PROJECT_DIR$/ejemplo-tezla/js/modernizr-custom.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tezla/js/prefixfree.min.js">
+    <entry file="file://$PROJECT_DIR$/ejemplo-tezla/js/prefixfree.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tezla/js/ejemplo.js">
+    <entry file="file://$PROJECT_DIR$/ejemplo-tezla/js/ejemplo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.039087947">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tezla/css/normalize.css">
+    <entry file="file://$PROJECT_DIR$/ejemplo-tezla/css/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tezla/img/fondo.png">
+    <entry file="file://$PROJECT_DIR$/ejemplo-tezla/img/fondo.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tezla/img/carro.png">
+    <entry file="file://$PROJECT_DIR$/ejemplo-tezla/img/carro.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tezla/img/logo.png">
+    <entry file="file://$PROJECT_DIR$/ejemplo-tezla/img/logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -678,24 +741,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vaca_berde/css/style.css">
+    <entry file="file://$PROJECT_DIR$/ejemplo-blog/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22533633">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vaca_berde/css/normalize.css">
+    <entry file="file://$PROJECT_DIR$/ejemplo-blog/css/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23542601">
           <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.1846156">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -706,7 +762,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homeazmin/css/normalize.css">
+    <entry file="file://$PROJECT_DIR$/azmind.com/css/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.32286996">
           <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
@@ -720,13 +776,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tezla/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.59641254">
-          <caret line="51" column="10" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/miblog/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.6143498">
@@ -734,33 +783,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vaca_berde/index.html">
+    <entry file="file://$PROJECT_DIR$/ejemplo-blog/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.1883408">
           <caret line="152" column="10" selection-start-line="152" selection-start-column="10" selection-end-line="152" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homeazmin/index.html">
+    <entry file="file://$PROJECT_DIR$/azmind.com/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16243654">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homeazmin/img/2.jpg">
+    <entry file="file://$PROJECT_DIR$/azmind.com/img/2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homeazmin/login.html">
+    <entry file="file://$PROJECT_DIR$/azmind.com/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5939086">
           <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tezla/css/icofont.css">
+    <entry file="file://$PROJECT_DIR$/ejemplo-tezla/css/icofont.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.48106903">
           <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
@@ -768,65 +817,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homeazmin/css/style.css">
+    <entry file="file://$PROJECT_DIR$/ejemplo-tezla/css/pystyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.103448">
-          <caret line="300" column="12" selection-start-line="300" selection-start-column="12" selection-end-line="300" selection-end-column="12" />
+        <state vertical-scroll-proportion="1.9086294">
+          <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
           <folding>
-            <element signature="e#0#30#0" expanded="false" />
-            <element signature="e#158#187#0" expanded="false" />
-            <element signature="e#241#272#0" expanded="false" />
-            <element signature="e#2034#2068#0" expanded="false" />
-            <element signature="e#2847#2877#0" expanded="false" />
-            <element signature="e#3417#3454#0" expanded="false" />
-            <element signature="e#3470#3498#0" expanded="false" />
-            <element signature="e#3519#3548#0" expanded="false" />
-            <element signature="e#3641#3673#0" expanded="false" />
-            <element signature="e#3732#3763#0" expanded="false" />
-            <element signature="e#3860#3890#0" expanded="false" />
+            <element signature="e#923#953#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tezla/css/style.css">
+    <entry file="file://$PROJECT_DIR$/ejemplo-tezla/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.0">
+        <state vertical-scroll-proportion="1.2758037">
           <caret line="332" column="18" selection-start-line="332" selection-start-column="18" selection-end-line="332" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/azmind.com/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4467005">
+          <caret line="300" column="12" selection-start-line="300" selection-start-column="12" selection-end-line="300" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplo-tezla/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6260575">
+          <caret line="51" column="10" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplo-foundation-blog/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4467005">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplo-css3/project.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3448275">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplo-css3/css/pystyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.586206">
+          <caret line="142" column="18" selection-start-line="142" selection-start-column="18" selection-end-line="142" selection-end-column="18" />
           <folding>
-            <element signature="e#123#153#0" expanded="false" />
-            <element signature="e#1820#1853#0" expanded="false" />
-            <element signature="e#2490#2524#0" expanded="false" />
-            <element signature="e#3269#3302#0" expanded="false" />
-            <element signature="e#4229#4273#0" expanded="false" />
+            <element signature="e#145#185#0" expanded="false" />
+            <element signature="e#277#308#0" expanded="false" />
+            <element signature="e#923#953#0" expanded="false" />
+            <element signature="e#1176#1211#0" expanded="false" />
+            <element signature="e#1475#1509#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tezla/css3/project.html">
+    <entry file="file://$PROJECT_DIR$/ejemplo-css3/ejercicios.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-33.931034">
-          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.5532995">
+          <caret line="74" column="43" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tezla/css3/ejercicios.html">
+    <entry file="file://$PROJECT_DIR$/ejemplo-css3/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6345178">
-          <caret line="78" column="14" selection-start-line="78" selection-start-column="14" selection-end-line="78" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tezla/css/pystyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6497462">
-          <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.79695433">
+          <caret line="399" column="0" selection-start-line="399" selection-start-column="0" selection-end-line="399" selection-end-column="0" />
           <folding>
-            <element signature="e#172#212#0" expanded="false" />
-            <element signature="e#304#335#0" expanded="false" />
-            <element signature="e#920#950#0" expanded="false" />
-            <element signature="e#1173#1208#0" expanded="false" />
+            <element signature="e#123#161#0" expanded="false" />
+            <element signature="e#1828#1861#0" expanded="false" />
+            <element signature="e#2498#2532#0" expanded="false" />
+            <element signature="e#3277#3310#0" expanded="false" />
+            <element signature="e#4237#4281#0" expanded="false" />
+            <element signature="e#4793#4845#0" expanded="false" />
           </folding>
         </state>
       </provider>

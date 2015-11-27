@@ -1,0 +1,122 @@
+html{
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#guia{
+    background: #3aaa35;
+    padding: 75px 0;
+    color: white;
+}
+/*<editor-fold desc="effect the text">*/
+.content{
+    width: 900px;
+    margin: 0 auto;
+    padding: 0 25px;
+}
+
+/*</editor-fold>*/
+/*<editor-fold desc="bottom">*/
+
+.btn{
+    border: none;
+    border-radius: 5px;
+}
+
+.btn-small{
+    background: none;
+    border: 1px solid #3aaa34;
+    color: #3aaa34;
+    height: 25px;
+}
+.btn-medium{
+    background: none;
+    border: 1.4px solid #fff;
+    width: 178px;
+    height: 35px;
+
+}
+.btn-large{
+    background: #008d36;
+    font-size: 20px;
+    width: 300px;
+    height: 60px;
+    color: #fff;
+}
+.circle{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    border: 1px solid #3aaa34;
+    color: #3aaa34;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px;
+    margin: 0 auto 30px auto;
+
+}
+
+/*</editor-fold>*/
+/*<editor-fold desc="fonts">*/
+.title-principal{
+    font-size: 50px;
+    text-shadow: 2px 2px 1px rgba(0,11,63,0.5);
+    color: #FFF;
+}
+.title-weak{
+    font-weight: 300;
+    display: block;
+}
+.title-strong{
+    font-weight: 700;
+
+}
+/*</editor-fold>*/
+/*<editor-fold desc="bockground">*/
+.Cabecera{
+
+    background: linear-gradient(to right, rgba(0, 11, 63, 0.5), rgba(0, 11, 63, 0.5) 25%, rgba(241, 143, 52, 0.1) 67.5%), url("../img/header.jpg") bottom;
+    background-size: cover;
+    min-height: 500px;
+    padding-top: 100px;
+}
+/*</editor-fold>*/
+
+.ranking-img{
+    width: 100%;
+    height: 200px;
+
+
+}
+.ranking-contentTitle{
+    text-align: center;
+    margin-top: 60px;
+
+}
+.ranking-title{
+    font-size: 20px;
+    font-weight: 400;
+    width: 900px;
+
+
+}
+.ranking-description{
+    width: 430px;
+    margin: 0 auto;
+
+}
+.ranking-list{
+    margin: 60px 0 60px 0;
+    list-style: none;
+    overflow: hidden;
+    padding: 0;
+}
+.ranking-item{
+    width: 250px;
+    float: left;
+    margin-left: 50px;
+
+}
+.ranking-item:nth-child(1){
+    margin-left: 0;
+}
