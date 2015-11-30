@@ -1,0 +1,46 @@
+ul, li{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+}
+
+.welcome{
+    background: #2b2c30;
+    padding: 2em 0;
+    color: white;
+
+}
+.content{
+    max-width: 1000px;
+    padding: 0 1em;
+}
+.row{
+    display: flex;
+
+}
+.MainMenu {
+    background: #2b2c30;
+    padding: 1em 0;
+}
+.menu_item{
+    display: inline-block;
+}
+.menu_list{
+    display: none;
+}
+.logo_blue{
+    color: #3e8eea;
+}
+.logo_white{
+    color: white;
+}
+
+
+.welcome-title{
+    font-size: 1.5em;
+    text-align: center;
+    margin: .2em 0;
+}

@@ -2,110 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ae74cf3-08e1-430a-9075-5bf9c37383bc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/fonts/icomoon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/fonts/icomoon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/fonts/icomoon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/img/Collaboration.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/img/ProjectManagementCertificate_MAIN.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/img/carro.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/img/fondo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/img/header.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/img/project-management.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/fonts/icomoon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/icofont.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/icomoon/Read Me.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/icomoon/demo-files/demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/icomoon/demo-files/demo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/icomoon/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/icomoon/selection.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/pystyle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-tezla/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/css/foundation.css" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/css/foundation.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/css/foundation.min.css" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/css/foundation.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/css/normalize.css" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/css/normalize.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/home.html" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/home.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/humans.txt" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/humans.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/img/.gitkeep" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/img/.gitkeep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/index.html" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation.min.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.abide.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.abide.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.accordion.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.accordion.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.alert.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.alert.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.clearing.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.clearing.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.dropdown.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.dropdown.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.equalizer.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.equalizer.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.interchange.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.interchange.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.joyride.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.joyride.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.magellan.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.magellan.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.offcanvas.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.offcanvas.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.orbit.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.orbit.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.reveal.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.reveal.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.slider.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.slider.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.tab.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.tab.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.tooltip.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.tooltip.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/foundation/foundation.topbar.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/foundation/foundation.topbar.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/vendor/fastclick.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/vendor/fastclick.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/vendor/jquery.cookie.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/vendor/jquery.cookie.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/vendor/jquery.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/vendor/jquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/vendor/modernizr.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/vendor/modernizr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/js/vendor/placeholder.js" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/js/vendor/placeholder.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/robots.txt" afterPath="$PROJECT_DIR$/ejemplo-foundation-blog/robots.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/homeazmin/css/normalize.css" afterPath="$PROJECT_DIR$/azmind.com/css/normalize.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/homeazmin/css/style.css" afterPath="$PROJECT_DIR$/azmind.com/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/homeazmin/img/2.jpg" afterPath="$PROJECT_DIR$/azmind.com/img/2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/homeazmin/img/3.jpg" afterPath="$PROJECT_DIR$/azmind.com/img/3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/homeazmin/img/avatar.jpg" afterPath="$PROJECT_DIR$/azmind.com/img/avatar.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/homeazmin/img/fondo.jpg" afterPath="$PROJECT_DIR$/azmind.com/img/fondo.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/homeazmin/img/fondo1.jpg" afterPath="$PROJECT_DIR$/azmind.com/img/fondo1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/homeazmin/img/logo-hover.png" afterPath="$PROJECT_DIR$/azmind.com/img/logo-hover.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/homeazmin/img/logo.png" afterPath="$PROJECT_DIR$/azmind.com/img/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/homeazmin/img/post1.jpg" afterPath="$PROJECT_DIR$/azmind.com/img/post1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/homeazmin/index.html" afterPath="$PROJECT_DIR$/azmind.com/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/homeazmin/login.html" afterPath="$PROJECT_DIR$/azmind.com/login.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/fonts/icomoon.eot" afterPath="$PROJECT_DIR$/ejemplo-css3/css/fonts/icomoon.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/fonts/icomoon.svg" afterPath="$PROJECT_DIR$/ejemplo-css3/css/fonts/icomoon.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/fonts/icomoon.ttf" afterPath="$PROJECT_DIR$/ejemplo-css3/css/fonts/icomoon.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/fonts/icomoon.woff" afterPath="$PROJECT_DIR$/ejemplo-css3/css/fonts/icomoon.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/icofont.css" afterPath="$PROJECT_DIR$/ejemplo-css3/css/icofont.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/icomoon/Read Me.txt" afterPath="$PROJECT_DIR$/ejemplo-css3/css/icomoon/Read Me.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/icomoon/demo-files/demo.css" afterPath="$PROJECT_DIR$/ejemplo-css3/css/icomoon/demo-files/demo.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/icomoon/demo-files/demo.js" afterPath="$PROJECT_DIR$/ejemplo-css3/css/icomoon/demo-files/demo.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/icomoon/demo.html" afterPath="$PROJECT_DIR$/ejemplo-css3/css/icomoon/demo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/icomoon/selection.json" afterPath="$PROJECT_DIR$/ejemplo-css3/css/icomoon/selection.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/normalize.css" afterPath="$PROJECT_DIR$/ejemplo-css3/css/normalize.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/pystyle.css" afterPath="$PROJECT_DIR$/ejemplo-css3/css/pystyle.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css/style.css" afterPath="$PROJECT_DIR$/ejemplo-css3/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css3/ejercicios.html" afterPath="$PROJECT_DIR$/ejemplo-css3/ejercicios.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/css3/project.html" afterPath="$PROJECT_DIR$/ejemplo-css3/project.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/img/Collaboration.jpg" afterPath="$PROJECT_DIR$/ejemplo-css3/img/Collaboration.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/img/ProjectManagementCertificate_MAIN.jpg" afterPath="$PROJECT_DIR$/ejemplo-css3/img/ProjectManagementCertificate_MAIN.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/img/carro.png" afterPath="$PROJECT_DIR$/ejemplo-css3/img/carro.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/img/fondo.png" afterPath="$PROJECT_DIR$/ejemplo-css3/img/fondo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/img/header.jpg" afterPath="$PROJECT_DIR$/ejemplo-css3/img/header.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/img/logo.png" afterPath="$PROJECT_DIR$/ejemplo-css3/img/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/img/project-management.jpg" afterPath="$PROJECT_DIR$/ejemplo-css3/img/project-management.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/index.html" afterPath="$PROJECT_DIR$/ejemplo-tezla/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/js/ejemplo.js" afterPath="$PROJECT_DIR$/ejemplo-tezla/js/ejemplo.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/js/jquery-1.11.3.min.js" afterPath="$PROJECT_DIR$/ejemplo-tezla/js/jquery-1.11.3.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/js/modernizr-custom.js" afterPath="$PROJECT_DIR$/ejemplo-tezla/js/modernizr-custom.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tezla/js/prefixfree.min.js" afterPath="$PROJECT_DIR$/ejemplo-tezla/js/prefixfree.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/css/normalize.css" afterPath="$PROJECT_DIR$/ejemplo-blog/css/normalize.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/css/style.css" afterPath="$PROJECT_DIR$/ejemplo-blog/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/fonts/icomoon.eot" afterPath="$PROJECT_DIR$/ejemplo-blog/fonts/icomoon.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/fonts/icomoon.svg" afterPath="$PROJECT_DIR$/ejemplo-blog/fonts/icomoon.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/fonts/icomoon.ttf" afterPath="$PROJECT_DIR$/ejemplo-blog/fonts/icomoon.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/fonts/icomoon.woff" afterPath="$PROJECT_DIR$/ejemplo-blog/fonts/icomoon.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/fuentes/OpenSans-Regular-webfont.eot" afterPath="$PROJECT_DIR$/ejemplo-blog/fuentes/OpenSans-Regular-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/fuentes/OpenSans-Regular-webfont.svg" afterPath="$PROJECT_DIR$/ejemplo-blog/fuentes/OpenSans-Regular-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/fuentes/OpenSans-Regular-webfont.ttf" afterPath="$PROJECT_DIR$/ejemplo-blog/fuentes/OpenSans-Regular-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/fuentes/OpenSans-Regular-webfont.woff" afterPath="$PROJECT_DIR$/ejemplo-blog/fuentes/OpenSans-Regular-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/img/avatar.jpg" afterPath="$PROJECT_DIR$/ejemplo-blog/img/avatar.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/img/logo.png" afterPath="$PROJECT_DIR$/ejemplo-blog/img/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/img/post.png" afterPath="$PROJECT_DIR$/ejemplo-blog/img/post.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/vaca_berde/index.html" afterPath="$PROJECT_DIR$/ejemplo-blog/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/avid.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-css3/css/flexbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-css3/css/pyStylebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-css3/flexbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplo-css3/flexboxPy.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="practica 1.iws" />
@@ -126,24 +27,14 @@
     <favorites_list name="practica 1" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.60223365">
+    <splitter split-orientation="horizontal" split-proportion="0.70962197">
       <split-first>
         <leaf>
-          <file leaf-file-name="project.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/ejemplo-css3/project.html">
+          <file leaf-file-name="flexboxPy.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ejemplo-css3/flexboxPy.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-1.3448275">
-                  <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="ejercicios.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/ejemplo-css3/ejercicios.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.5532995">
-                  <caret line="74" column="43" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="43" />
+                <state vertical-scroll-proportion="0.6345178">
+                  <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -153,35 +44,12 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="pystyle.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/ejemplo-css3/css/pystyle.css">
+          <file leaf-file-name="pyStylebox.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ejemplo-css3/css/pyStylebox.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-11.586206">
-                  <caret line="142" column="18" selection-start-line="142" selection-start-column="18" selection-end-line="142" selection-end-column="18" />
-                  <folding>
-                    <element signature="e#145#185#0" expanded="false" />
-                    <element signature="e#277#308#0" expanded="false" />
-                    <element signature="e#923#953#0" expanded="false" />
-                    <element signature="e#1176#1211#0" expanded="false" />
-                    <element signature="e#1475#1509#0" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/ejemplo-css3/css/style.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.79695433">
-                  <caret line="399" column="0" selection-start-line="399" selection-start-column="0" selection-end-line="399" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#123#161#0" expanded="false" />
-                    <element signature="e#1828#1861#0" expanded="false" />
-                    <element signature="e#2498#2532#0" expanded="false" />
-                    <element signature="e#3277#3310#0" expanded="false" />
-                    <element signature="e#4237#4281#0" expanded="false" />
-                    <element signature="e#4793#4845#0" expanded="false" />
-                  </folding>
+                <state vertical-scroll-proportion="0.75634515">
+                  <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -239,6 +107,12 @@
         <option value="$PROJECT_DIR$/ejemplo-css3/css/pystyle.css" />
         <option value="$PROJECT_DIR$/ejemplo-css3/ejercicios.html" />
         <option value="$PROJECT_DIR$/ejemplo-css3/css/style.css" />
+        <option value="$PROJECT_DIR$/ejemplo-css3/css/flexbox.css" />
+        <option value="$PROJECT_DIR$/ejemplo-css3/flexbox.html" />
+        <option value="$PROJECT_DIR$/ejemplo-css3/css/styleFlexbox.css" />
+        <option value="$PROJECT_DIR$/ejemplo-css3/css/main.css" />
+        <option value="$PROJECT_DIR$/ejemplo-css3/flexboxPy.html" />
+        <option value="$PROJECT_DIR$/ejemplo-css3/css/pyStylebox.css" />
       </list>
     </option>
   </component>
@@ -300,6 +174,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -365,9 +240,56 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practica 1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tezla" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ejemplo-css3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carpeta sin título" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practica 1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tezla" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ejemplo-css3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Carpeta sin título" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="initializr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -375,7 +297,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -479,7 +401,6 @@
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14787701" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -490,6 +411,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -529,41 +451,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ejemplo-foundation-blog/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="71" column="16" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylus/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ejemplo-tezla/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ejemplo-tezla/js/ejemplo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ejemplo-tezla/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ejemplo-foundation-blog/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -813,7 +700,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.48106903">
           <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -821,9 +707,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.9086294">
           <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
-          <folding>
-            <element signature="e#923#953#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -831,7 +714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.2758037">
           <caret line="332" column="18" selection-start-line="332" selection-start-column="18" selection-end-line="332" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -846,7 +728,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6260575">
           <caret line="51" column="10" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -854,43 +735,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4467005">
           <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplo-css3/ejercicios.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6852792">
+          <caret line="75" column="18" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ejemplo-css3/project.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3448275">
+        <state vertical-scroll-proportion="0.040609136">
           <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ejemplo-css3/css/pystyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.586206">
-          <caret line="142" column="18" selection-start-line="142" selection-start-column="18" selection-end-line="142" selection-end-column="18" />
-          <folding>
-            <element signature="e#145#185#0" expanded="false" />
-            <element signature="e#277#308#0" expanded="false" />
-            <element signature="e#923#953#0" expanded="false" />
-            <element signature="e#1176#1211#0" expanded="false" />
-            <element signature="e#1475#1509#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ejemplo-css3/ejercicios.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5532995">
-          <caret line="74" column="43" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ejemplo-css3/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.79695433">
+        <state vertical-scroll-proportion="0.83756346">
           <caret line="399" column="0" selection-start-line="399" selection-start-column="0" selection-end-line="399" selection-end-column="0" />
           <folding>
             <element signature="e#123#161#0" expanded="false" />
@@ -903,5 +769,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplo-css3/flexbox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39086294">
+          <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplo-css3/css/flexbox.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.75634515">
+          <caret line="77" column="1" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplo-css3/css/pystyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52791876">
+          <caret line="82" column="18" selection-start-line="82" selection-start-column="18" selection-end-line="82" selection-end-column="18" />
+          <folding>
+            <element signature="e#145#185#0" expanded="false" />
+            <element signature="e#277#308#0" expanded="false" />
+            <element signature="e#923#953#0" expanded="false" />
+            <element signature="e#1176#1211#0" expanded="false" />
+            <element signature="e#1475#1509#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplo-css3/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplo-css3/css/pyStylebox.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.75634515">
+          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplo-css3/flexboxPy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6345178">
+          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
