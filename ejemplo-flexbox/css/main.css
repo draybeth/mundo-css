@@ -1,0 +1,213 @@
+ul, li{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+body{
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+}
+
+/*<editor-fold desc="Utils">*/
+.content{
+    max-width: 1000px;
+    padding: 0 1em;
+    margin: 0 auto;
+}
+.Benefits_link{
+    text-align: center;
+    padding: .5em 1em;
+    background-color: #1e66e5;
+    text-decoration: none;
+    color: white;
+    margin-top: 2em;
+    border-radius: 0.2em;
+}
+.btn{
+    color: #3484e5;
+    font-size: 1em;
+    border: 1px solid black;
+    text-decoration: none;
+    padding: .5em 1em;
+    border-radius: .3em;
+}
+.row{
+    display: flex;
+}
+.row-center{
+    justify-content: center;
+}
+/*</editor-fold>*/
+
+/*<editor-fold desc="MainMenu">*/
+
+.MainMenu {
+    background: #2b2c30;
+    padding: 1em 0;
+}
+.menu_row{
+    justify-content: space-between;
+}
+.menu_item{
+    display: inline-block;
+}
+.menu_list{
+    display: none;
+}
+@media screen and (min-width: 480px ){
+    .menu_list{
+
+        display: block;
+        color: whitesmoke;
+    }
+
+
+}
+.menu_link{
+    color: white;
+    text-decoration: none;
+    padding: .5em 1em;
+}
+.logo{
+    flex-direction: row;
+}
+.logo_blue{
+    color: #3e8eea;
+    display: inline-block;
+}
+.logo_white{
+    color: white;
+    display: inline-block;
+}
+/*</editor-fold>*/
+
+/*<editor-fold desc="Welcome">*/
+.welcome{
+    background: #2b2c30;
+    padding: 2em 0;
+    color: white;
+}
+.welcome-title{
+    font-size: 1.5em;
+    text-align: center;
+    margin: .5em 0;
+}
+.welcome_row{
+    flex-direction: column;
+    /*background: red;*/
+}
+@media screen and (min-width: 480px){
+
+    .welcome_row{
+        flex-direction: row;
+        justify-content: center;
+    }
+}
+.welcome__item{
+    text-align: center;
+    padding: 1em;
+}
+.welcome__img{
+    max-width: 100px;
+    margin: 0 auto;
+    display: block;
+
+}
+
+/*</editor-fold>*/
+/*<editor-fold desc="Benefits">*/
+.Benefits{
+    padding: 1em 0;
+    /*background: lemonchiffon;*/
+}
+.Benefits_row{
+    justify-content: space-between;
+    align-items: center;
+}
+
+.benefits_img{
+    width: 100%;
+}
+.Benefits__item_row{
+    flex-direction: column;
+}
+.benefit{
+    flex: 1 ;
+}
+
+@media screen and (min-width: 480px) {
+    .Benefits__item_row{
+        flex-direction: row;
+    }
+    .Benefit{
+        padding: 1em;
+        background: lemonchiffon;
+        flex: 1;
+    }
+}
+.Benefit-title{
+    color: #1e66e5;
+}
+
+/*</editor-fold>*/
+/*<editor-fold desc="Info">*/
+.Info{
+    border-top:1px solid #ccc ;
+    border-bottom: 1px solid #ccc;
+    padding: 1em 0;
+}
+.info_row{
+    align-items: center;
+    justify-content: space-between;
+}
+.Logos{
+    padding: 2em 0;
+}
+.logo_item{
+    max-height: 50px;
+    margin: .5em;
+    flex-shrink: 0;
+
+}
+.logos_row{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+/*</editor-fold>*/
+
+/*<editor-fold desc="Footer">*/
+.footer_row{
+    flex-direction: column;
+
+}
+@media screen and (min-width: 480px){
+
+    .footer_row{
+        flex-direction: row;
+
+    }
+    .footer_link a{
+        color: #c3c3c3;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 20px;
+    }
+}
+.footer{
+    background: #2b2c33;
+    padding: 2em 0;
+    text-align: center;
+}
+.footer_list{
+    flex: 1;
+}
+.footer_link{
+    padding: 0.25em 0;
+}
+.footer_link a{
+    color: #c3c3c3;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 12px;
+}
+/*</editor-fold>*/
