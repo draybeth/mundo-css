@@ -2,7 +2,8 @@
 
 /*<editor-fold desc="Header">*/
 .Header
-  background url("../img/fondo.png") no-repeat center
+  //background url("../img/fondo.png") no-repeat center
+  background-color #F5FBFB
   background-size cover
   height 100vh
   text-align center
@@ -16,7 +17,7 @@
   width 10%
 
 .Header-name
-  color white
+  color colorOrange
   font-size 2.2em
   font-weight bold
 
@@ -27,26 +28,52 @@
   font-weight 300
 
 .MainMenu
-  background #e1e1e1
-  text-align center
   height 3.75em
   position fixed
   left 0
   right 0
   top 0
+  &_contentImg
+    margin 0
+    padding 0
+    display inline-block
+    position absolute
+    top 0
+    left 20%
+  &_logo
+    width 50px
+    margin 20px
+    padding 0
+    display inline-block
+  &_name
+    display inline-block
+    vertical-align top
+    color colorGray
+    padding-top  33px
+    font-weight 800
 
-.MainMenu-list
-  margin 0
-  padding 0
 
-.MainMenu-item
-  display inline-block
 
-.MainMenu-link
-  color goldenrod
-  text-decoration none
-  line-height 3.75em
-  margin-right 1.75em
+  &_list
+    display inline-block
+    vertical-align top
+    margin-top 10px
+    position absolute
+    top 5px
+    right 20%
+
+  &_item
+    display inline-block
+  &_link
+    color colorGray
+    text-decoration none
+    line-height 3.75em
+    margin-right 1.75em
+    transition all
+    &:hover
+      color black
+      transition .500s
+
 
 /*</editor-fold>*/
 
@@ -94,7 +121,7 @@
   font-size 1.5em
   font-style italic
 
-/*<editor-fold desc="Footer">*/
+
 .Footer
   background url("../img/fonde3.jpg") no-repeat center
   background-size cover
@@ -133,5 +160,3 @@
   background orange
   border-radius .5em
   padding .5em 1em
-
-/*</editor-fold>*/
